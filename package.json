@@ -1,6 +1,6 @@
 {
   "name": "gui-one-react-video",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -29,13 +29,13 @@
     ]
   },
   "dependencies": {
-    "react": "^18.0.0",
     "video-react": "^0.15.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^13.0.0",
     "@types/jest": "^27.0.3",
+    "react": "^17.0.2",
     "@types/video-react": "^0.15.1",
     "@umijs/fabric": "^2.8.1",
     "@umijs/test": "^3.0.5",
